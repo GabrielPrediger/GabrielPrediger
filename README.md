@@ -9,7 +9,11 @@ Meu principal foco esta no desenvolvimento front end, onde busco dia a dia evolu
 - Front-End com HTML5, CSS (Sass, Flex Box and Grid), JavaScript, ReactJS, MySql
 
 
-## Próximos cursos:
+## No meu passatempo...
+- 🤓 Eu costumo estudar e reforçar conhecimento em tecnolgias do front-end
+- 📕 Ler livros
+- 🌻 Meditar
+- 😅 Jogar
 
 
 
@@ -19,3 +23,6 @@ Meu principal foco esta no desenvolvimento front end, onde busco dia a dia evolu
 </div>
 
 - 🏡 Atualmente moro em Soledade/RS...
+- 😀 Tenho 21 anos
+- 🇺🇸 Meu inglês é intermediário
+- 🗺 Quero conhecer o mundo! 
