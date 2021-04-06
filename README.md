@@ -1,4 +1,4 @@
- # <h1 align="center"> <a href="https://www.linkedin.com/in/gabrielprediger/">Gabriel Prediger</a></h1>
+ # <h1 align="center" color="#008B8B"> <a href="https://www.linkedin.com/in/gabrielprediger/">Gabriel Prediger</a></h1>
  
 ## Sobre mim
 Sou apaixonado por tecnologia desde pequeno e por causa desse grande amor iniciei minha minha formação em analise e desenvolvimento de sistemas, cujo o foco é formar um desenvolvedor de forma rápida e objetiva. Durante esse período de estudo na universidade de Passo Fundo, acabei tendo oportunidades de enriquecer o meu conhecimento em estágios e projetos disponibilizados pela universidade e seus parceiros, que fez com que eu tivesse uma expansão enorme de conhecimento sobre todo o ecossistema da área de tecnologia. Desde então meu estudo vai desde a faculdade a cursos onlines nas mais diversas plataformas.
@@ -14,6 +14,7 @@ Meu principal foco esta no desenvolvimento front end, onde busco dia a dia evolu
 - 📕 Ler livros
 - 🌻 Meditar
 - 😅 Jogar
+- 💪 Musculação
 
 
 
@@ -23,6 +24,6 @@ Meu principal foco esta no desenvolvimento front end, onde busco dia a dia evolu
 </div>
 
 - 🏡 Atualmente moro em Soledade/RS...
-- 😀 Tenho 21 anos
-- 🇺🇸 Meu inglês é intermediário
-- 🗺 Quero conhecer o mundo! 
+- 😀 Tenho 21 anos...
+- 🌎 Meu inglês é intermediário...
+- 🌍 Quero conhecer o mundo! 
