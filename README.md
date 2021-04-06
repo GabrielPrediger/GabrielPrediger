@@ -1,16 +1,16 @@
- # <h1 align="center" color="#008B8B"> <a href="https://www.linkedin.com/in/gabrielprediger/">Gabriel Prediger</a></h1>
- 
+# <h1 align="center" color="#008B8B"> <a href="https://www.linkedin.com/in/gabrielprediger/">Gabriel Prediger</a></h1>
+ 
 ## Sobre mim
-Sou apaixonado por tecnologia desde pequeno e por causa desse grande amor iniciei minha minha formação em analise e desenvolvimento de sistemas, cujo o foco é formar um desenvolvedor de forma rápida e objetiva. Durante esse período de estudo na universidade de Passo Fundo, acabei tendo oportunidades de enriquecer o meu conhecimento em estágios e projetos disponibilizados pela universidade e seus parceiros, que fez com que eu tivesse uma expansão enorme de conhecimento sobre todo o ecossistema da área de tecnologia. Desde então meu estudo vai desde a faculdade a cursos onlines nas mais diversas plataformas.
+Sou apaixonado por tecnologia desde pequeno e por causa desse grande amor iniciei minha formação em análise e desenvolvimento de sistemas, cujo foco é formar um desenvolvedor de forma rápida e objetiva. Durante esse período de estudo na universidade de Passo Fundo, acabei tendo oportunidades de enriquecer o meu conhecimento em estágios e projetos disponibilizados pela universidade e seus parceiros, que fez com que eu tivesse uma expansão enorme de conhecimento sobre todo o ecossistema da área de tecnologia. Desde então meu estudo vai desde a faculdade a cursos onlines nas mais diversas plataformas.
 
-Meu principal foco esta no desenvolvimento front end, onde busco dia a dia evoluir com base em experiências e estudos. As linguagens com que tenho já tenho prática são HTML5, CSS (Sass, Flex Box and Grid), JavaScript, ReactJS, MySql. E outras características como Trello, Jira Software, Scrum, Metodologia Ágil 
+Meu foco principal está no desenvolvimento front end, onde busco o dia a dia evoluir com base em experiências e estudos. As linguagens com que tenho já tenho prática são HTML5, CSS (Sass, Flex Box and Grid), JavaScript, ReactJS, MySql. E outras características como Trello, Jira Software, Scrum, Metodologia Ágil 
 
 ## Conhecimentos:
 - Front-End com HTML5, CSS (Sass, Flex Box and Grid), JavaScript, ReactJS, MySql
 
 
 ## No meu passatempo...
-- 🤓 Eu costumo estudar e reforçar conhecimento em tecnolgias do front-end
+- 🤓 Eu costumo estudar e reforçar conhecimento em tecnologias do front-end
 - 📕 Ler livros
 - 🌻 Meditar
 - 😅 Jogar
@@ -18,7 +18,7 @@ Meu principal foco esta no desenvolvimento front end, onde busco dia a dia evolu
 
 
 
-##  Contato
+##  Contato
 - <a href="https://www.linkedin.com/in/gabrielprediger/">Linkedin</a>
 - <a href="mailto:gabrielprediger046@gmail.com">E-mail</a>
 </div>
@@ -26,4 +26,4 @@ Meu principal foco esta no desenvolvimento front end, onde busco dia a dia evolu
 - 🏡 Atualmente moro em Soledade/RS...
 - 😀 Tenho 21 anos...
 - 🌎 Meu inglês é intermediário...
-- 🌍 Quero conhecer o mundo! 
+- 🌍 Quero conhecer o mundo! 
