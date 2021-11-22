@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia desde pequeno e por causa desse grande amor inicie
 Meu foco principal está no desenvolvimento front end, onde busco o dia a dia evoluir com base em experiências e estudos. As linguagens com que tenho prática são HTML5, CSS (Sass, Flex Box and Grid), JavaScript, ReactJS, MySql. E outras características como Trello, Jira Software, Scrum, Metodologia Ágil 
 
 ## Conhecimentos:
-- Front-End com HTML5, CSS (Sass, Flex Box and Grid), JavaScript, ReactJS, MySql
+HTML5, CSS (Sass, Flex Box and Grid), JavaScript, ReactJS (Hoocks - Styled Components - ContextAPI - Redux - Axios), NodeJS, MySQL, Firebase
 
 
 ## No meu passatempo...
