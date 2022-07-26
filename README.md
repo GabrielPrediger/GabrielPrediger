@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🏡 Atualmente moro em Soledade/RS...
-- 😀 Tenho 21 anos...
+- 😀 Tenho 22 anos...
 - 🌎 Meu inglês é intermediário...
 - 🌍 Quero conhecer o mundo! 
 
@@ -15,11 +15,13 @@ Meu foco principal está no desenvolvimento front end, onde busco o dia a dia ev
 🔸HTML5
 🔸CSS (Sass, Flex Box and Grid)
 🔸JavaScript
-🔸ReactJS (Hoocks - Styled Components - ContextAPI - Redux - Axios)
+🔸ReactJS (Hoocks - Styled Components - ContextAPI - Redux - Axios - ChakraUI)
 🔸NodeJS
+🔸Ethers.js
+🔸Web3.js
 🔸MySQL
 🔸Firebase
-🔸SCRUM (Trello - Jira Software)
+🔸SCRUM (Trello - Jira Software - ClickUP)
 
 
 ## No meu passatempo...
