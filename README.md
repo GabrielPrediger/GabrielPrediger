@@ -47,8 +47,7 @@ Meu foco principal está no desenvolvimento front end, onde busco o dia a dia ev
 
 
 
-##  Contato
-- <a href="https://www.linkedin.com/in/gabrielprediger/">Linkedin</a>
+##  Outros contatos
 - <a href="mailto:gabrielprediger046@gmail.com">E-mail</a>
 - WhatsAPP: (54) 9 9135-4393
 </div>
