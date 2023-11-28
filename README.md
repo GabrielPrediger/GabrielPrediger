@@ -26,9 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielprediger&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielprediger&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Socials:
-<img width="20px" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <a href="https://linkedin.com/in/gabrielprediger">Gabriel Prediger</a>
-<div>Phone: (54)991354393 </div>
 
 
 
