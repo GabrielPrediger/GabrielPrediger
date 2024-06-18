@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Prediger
 ========================================================================================================================================
 
-Mid-level Software Engineer
+Senior Software Engineer
 ---------------------------
 
 I have been working professionally in the development field for the past 5 years. During this time, my focus has primarily been on the front-end, where I have gained significant experience with React.js and Next.js. I specialize in building projects with responsive designs utilizing various styling libraries, integrating systems in the most effective way either through native methods or using libraries. Currently, in addition to enhancing my front-end skills, I am actively seeking to learn more about the back-end to become a more well-rounded developer.
