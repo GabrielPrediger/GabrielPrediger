@@ -8,8 +8,7 @@ I have been working professionally in the development field for the past 5 years
 
 * 🌍  I'm based in Porto Alegre, Rio Grande do Sul - Brazil
 * ✉️  You can contact me at [gabrielprediger@gmail.com](mailto:gabrielprediger@gmail.com)
-* 🚀  I'm currently working on [Pollum.io](http://pollum.io/pt-BR/)
-* 🧠  I'm learning Python and Node.js
+* 🧠  I'm learning Python, Node.js and allways something new.
 * ⚡  I love building applications from 0 to 1, but I also enjoy the challenge of joining an ongoing project and contributing as much as possible to its evolution!
 
 ### Skills
